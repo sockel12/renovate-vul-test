@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sockel12/renovate-vul-test#readme",
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "metascraper": "3.1.0",
     "node-opcua": "2.75.0"
   }
